@@ -25,7 +25,7 @@
 public class PlayInstrument {
     public static void main(String[] args) {
 
-        Instrument guitar = new AsianMalaysian();
+        Instrument guitar = new NewInstrument();
 
         while (true) {
 
